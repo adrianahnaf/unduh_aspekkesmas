@@ -1,0 +1,3122 @@
+[
+  {
+    "kodefikasi": "36.2.01",
+    "komponendata": "Ekonomi",
+    "satuan": null,
+    "sumberdata": null,
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01",
+    "komponendata": "Jumlah Perusahaan Industri Sedang",
+    "satuan": null,
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "40",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "49",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "396",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "73",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "192",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "41",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "49",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "198",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.01.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "1038",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02",
+    "komponendata": "Jumlah Perusahaan Industri Besar",
+    "satuan": null,
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "77",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "113",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "2410",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "484",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "1098",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "256",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "153",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "938",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.2.18.02.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Perusahaan",
+    "sumberdata": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "2023": "5529",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01",
+    "komponendata": "Laju Pertumbuhan Ekonomi (LPE)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "2,53",
+    "2024": "7,91",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "2,80",
+    "2024": "5,53",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,18",
+    "2024": "4,45",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "4,80",
+    "2024": "5.08",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,57",
+    "2024": "5,08",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "4,82",
+    "2024": "4,03",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "4,74",
+    "2024": "5,19",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,36",
+    "2024": "5,65",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.01.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "4,81",
+    "2024": "4,93",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02",
+    "komponendata": "Produk Domestik Regional Bruto (PDRB) per Kapita Harga Berlaku",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "25,91",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "24,81",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "51,54",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "56,52",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "105,915**",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "287.525,89**",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 55.050,78 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 104.387,69 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.02.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Ribu Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "66,15**",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03",
+    "komponendata": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan Menurut Lapangan Usaha (Milyar Rupiah)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.01",
+    "komponendata": "Pertanian, Kehutanan, dan Perikanan",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 46.608,45 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.02",
+    "komponendata": "Pertambangan dan Penggalian",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 3.504,21 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.03",
+    "komponendata": "Industri Pengolahan",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 246.265,69 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.04",
+    "komponendata": "Pengadaan Listrik dan Gas",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 12.785,13 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.05",
+    "komponendata": "Pengadaan Air",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 652,28 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.06",
+    "komponendata": "Konstruksi",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 95.666,94 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.07",
+    "komponendata": "Perdagangan Besar dan Eceran, dan Reparasi Mobil dan Sepeda Motor",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 101.006,64 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.08",
+    "komponendata": "Transportasi dan Pergudangan",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 90.542,70 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.09",
+    "komponendata": "Penyediaan Akomodasi dan Makan Minum",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 19.150,09 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.10",
+    "komponendata": "Informasi dan Komunikasi",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 30.601,82 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.11",
+    "komponendata": "Jasa Keuangan",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 25.724,53 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.12",
+    "komponendata": "Real Estate",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 64.183,34 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.13",
+    "komponendata": "Jasa Perusahaan",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 8.820,02 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.14",
+    "komponendata": "Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 16.117,88 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.15",
+    "komponendata": "Jasa Pendidikan",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 26.680,99 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.16",
+    "komponendata": "Jasa Kesehatan danKegiatan Sosial",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 11.841,83 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.03.17",
+    "komponendata": "Jasa lainnya",
+    "satuan": "Milyar Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 13.971,78 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04",
+    "komponendata": "Laju Pertumbuhan PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha (Persen)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.01",
+    "komponendata": "Pertanian, Kehutanan, dan Perikanan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,14",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.02",
+    "komponendata": "Pertambangan dan Penggalian",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-16,48",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.03",
+    "komponendata": "Industri Pengolahan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,82",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.04",
+    "komponendata": "Pengadaan Listrik dan Gas",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-1,49",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.05",
+    "komponendata": "Pengadaan Air",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,35",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.06",
+    "komponendata": "Konstruksi",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "1,45",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.07",
+    "komponendata": "Perdagangan Besar dan Eceran, dan Reparasi Mobil dan Sepeda Motor",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "3,98",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.08",
+    "komponendata": "Transportasi dan Pergudangan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "12,44",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.09",
+    "komponendata": "Penyediaan Akomodasi dan Makan Minum",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "8,43",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.10",
+    "komponendata": "Informasi dan Komunikasi",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,75",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.11",
+    "komponendata": "Jasa Keuangan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-0,69",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.12",
+    "komponendata": "Real Estate",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "3,51",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.13",
+    "komponendata": "Jasa Perusahaan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,29",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.14",
+    "komponendata": "Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "1,93",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.15",
+    "komponendata": "Jasa Pendidikan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,78",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.16",
+    "komponendata": "Jasa Kesehatan danKegiatan Sosial",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,26",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.04.17",
+    "komponendata": "Jasa lainnya",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "9,38",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05",
+    "komponendata": "Persentase PDRB atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.01",
+    "komponendata": "Pertanian, Kehutanan, dan Perikanan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 5,72 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.02",
+    "komponendata": "Pertambangan dan Penggalian",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 0,43 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.03",
+    "komponendata": "Industri Pengolahan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 30,25 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.04",
+    "komponendata": "Pengadaan Listrik dan Gas",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 1,57 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.05",
+    "komponendata": "Pengadaan Air",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 0,08 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.06",
+    "komponendata": "Konstruksi",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 11,75 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.07",
+    "komponendata": "Perdagangan Besar dan Eceran, dan Reparasi Mobil dan Sepeda Motor",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 12,41 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.08",
+    "komponendata": "Transportasi dan Pergudangan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 11,12 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.09",
+    "komponendata": "Penyediaan Akomodasi dan Makan Minum",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 2,35 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.10",
+    "komponendata": "Informasi dan Komunikasi",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 3,76 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.11",
+    "komponendata": "Jasa Keuangan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 3,16 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.12",
+    "komponendata": "Real Estate",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 7,88 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.13",
+    "komponendata": "Jasa Perusahaan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 1,08 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.14",
+    "komponendata": "Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 1,98 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.15",
+    "komponendata": "Jasa Pendidikan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 3,28 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.16",
+    "komponendata": "Jasa Kesehatan danKegiatan Sosial",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 1,45 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.05.17",
+    "komponendata": "Jasa lainnya",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 1,72 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06",
+    "komponendata": "Perkembangan PDRB Atas Dasar Harga Konstan",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 21.341.090,31 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 22.706.798,37 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 108.570.429,08 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 60.370.564,40 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 119.060.332,19 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 84.537.543,85 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 25.562.289,19 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 69.562.289,19 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.06.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Juta rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 511.804.653,01 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07",
+    "komponendata": "IHK (Indeks Harga Konsumen)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "104,02",
+    "2024": "106,30",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "106,91",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "-",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "-",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "104,52",
+    "2024": "106,46",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "107,20",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.73",
+    "komponendata": "Kota Serang",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "106,79",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "-",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.07.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "IHK",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "104,64",
+    "2024": "106,61",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08",
+    "komponendata": "INFLASI",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.01",
+    "komponendata": "Bahan Makanan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "102,62",
+    "2024": "107,51",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.02",
+    "komponendata": "Makanan Jadi, Minuman, Rokok & Tembakau",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "106,90",
+    "2024": "108,69",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.03",
+    "komponendata": "Perumahan, Air, Listrik, Gas & Bahan Bakar",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "101,60",
+    "2024": "101,77",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.04",
+    "komponendata": "Sandang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "102,07",
+    "2024": "104,22",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.05",
+    "komponendata": "Kesehatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "102,36",
+    "2024": "104,50",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.06",
+    "komponendata": "Pendidikan, rekreasi dan olahraga",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "101,78",
+    "2024": "103,13",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.07",
+    "komponendata": "Transpor, komunikasi & Jasa Keuangan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "100,39",
+    "2024": "100,21",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.08.08",
+    "komponendata": "Umum",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "106,20",
+    "2024": "113,51",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09",
+    "komponendata": "Laju Inflasi (YoY)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "2,27",
+    "2024": "2,19",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "3,76",
+    "2024": "1,20",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "-",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "-",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "3,36",
+    "2024": "1,86",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "1,98",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "2,33",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "-",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.09.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "1,88",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.10",
+    "komponendata": "PDRB Perkapita ",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.10.01",
+    "komponendata": "PDRB per Kapita  Harga Berlaku (Juta Rp)",
+    "satuan": "Juta (Rp)",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "66,15",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.10.02",
+    "komponendata": "PDRB per Kapita Harga Berlaku  (US $)",
+    "satuan": "USD",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 4.341,08 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.10.03",
+    "komponendata": "Indeks Perkembangan PDRBper Kapita (2010=100)",
+    "satuan": "per kapita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.10.04",
+    "komponendata": "Laju Pertumbuhan PDRB perKapita atas Harga konstan",
+    "satuan": "per kapita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.10.05",
+    "komponendata": "Laju Pertumbuhan PDRB  atas Harga konstan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "3,61",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11",
+    "komponendata": "PDRB Perkapita atas Harga Berlaku",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 25.913,27 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 24.810,66 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 51.538,22 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 56.523,73 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 105.915,85 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 287.525,89 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 55.040,78 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 75.010,07 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.11.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Rupiah",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 66.147,39 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12",
+    "komponendata": "Gini Ratio ",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,243",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,271",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,286",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,274",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,379",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,362",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,306",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,359",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.1.12.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Nilai",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "0,368",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02",
+    "komponendata": "Kemiskinan",
+    "satuan": null,
+    "sumberdata": null,
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01",
+    "komponendata": "Angka Kemiskinan",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "9,27",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "8,68",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "6,93",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "4,85",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,89",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "3,98",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "6,20",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "2,57",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.02.5.1.01.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "6,17",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03",
+    "komponendata": "Sumberdaya Manusia",
+    "satuan": null,
+    "sumberdata": null,
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01",
+    "komponendata": "Indeks Pembangunan Manusia (IPM)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "70,28",
+    "2024": "70,88",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "67,68",
+    "2024": "68,33",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "75,56",
+    "2024": "76,19",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "72,63",
+    "2024": "73,28",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "80,98",
+    "2024": "81,53",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "78,24",
+    "2024": "78,83",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "76,43",
+    "2024": "76,90",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "83,57",
+    "2024": "84,16",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.01.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Poin",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "75,77",
+    "2024": "76,35",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02",
+    "komponendata": "Rata rata Lama Sekolah (RLS)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,15",
+    "2024": "7,16",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "6,60",
+    "2024": "6,61",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "8,93",
+    "2024": "9,06",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,79",
+    "2024": "7,88",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "10,91",
+    "2024": "11,14",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "10,38",
+    "2024": "10,39",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "8,91",
+    "2024": "8,93",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "11,85",
+    "2024": "11,86",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.02.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "9,15",
+    "2024": "9,23",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03",
+    "komponendata": "Harapan Lama Sekolah (HLS)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "13,73",
+    "2024": "13,74",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "12,10",
+    "2024": "12,11",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "12,87",
+    "2024": "12,88",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "12,86",
+    "2024": "12,87",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "13,89",
+    "2024": "13,90",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "13,21",
+    "2024": "13,23",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "12,82",
+    "2024": "12,83",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "14,68",
+    "2024": "14,70",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.03.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "13,09",
+    "2024": "13,10",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04",
+    "komponendata": "Angka Harapan Hidup (AHH)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "65,58",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "68,13",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "70,65",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "65,60",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "72,24",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "67,39",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "68,98",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "73,11",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.04.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Tahun",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "70,77",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05",
+    "komponendata": "Balita Gizi Buruk",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.05.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06",
+    "komponendata": "Jumlah Gizi Buruk Ditangani",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.06.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Balita",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "-",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07",
+    "komponendata": "Prevalensi Stunting",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "28,60",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "35,50",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "26,40",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "23,90",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "17,60",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "22,00",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "22,30",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "9,20",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.07.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "24,00",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08",
+    "komponendata": "Angka Partisipasi Angkatan Kerja",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 590.432 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 722.854 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 1.691.017 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 796.819 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 940.374 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 207.167 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 363.850 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 652.575 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.08.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Orang",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": " 5.965.088 ",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09",
+    "komponendata": "Tingkat Partisipasi Angkatan Kerja",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "60,33",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "67,90",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "66,87",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "63,22",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "63,39",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "62,70",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "68,44",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "60,50",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.09.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "64,44",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10",
+    "komponendata": "Tingkat Pengangguran Terbuka (TPT)",
+    "satuan": null,
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "9,05",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,57",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "6,94",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "9,94",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "6,76",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,25",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,45",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "5,81",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.03.5.1.10.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Perencanaan Pembangunan Daerah",
+    "2023": "7,52",
+    "2024": "0",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2",
+    "komponendata": "Pendapatan Daerah",
+    "satuan": null,
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "2,51",
+    "2024": "2,43",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "2,68",
+    "2024": "2,90",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "7,98",
+    "2024": "8,50",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "3,24",
+    "2024": "3,42",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "4,69",
+    "2024": "5,03",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "1,84",
+    "2024": "1,86",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "1,50",
+    "2024": "1,52",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "4,11",
+    "2024": "4,47",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.01.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "11,57",
+    "2024": "12,40",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02",
+    "komponendata": "Pendapatan Asli Daerah (PAD)",
+    "satuan": null,
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "0,23",
+    "2024": "0,19",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "0,43",
+    "2024": "0,39",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "4,40",
+    "2024": "4,60",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "0,87",
+    "2024": "0,90",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "2,27",
+    "2024": "2,41",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "0,74",
+    "2024": "0,74",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.73",
+    "komponendata": "Kota Serang",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "0,27",
+    "2024": "0,28",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "2,15",
+    "2024": "2,33",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.02.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "Triliun (Rp)",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "8,51",
+    "2024": "9,02",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03",
+    "komponendata": "Persentase PAD terhadap Pendapatan Transfer",
+    "satuan": null,
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "10,48",
+    "2024": "8,57",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "19,48",
+    "2024": "16,03",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "123,01",
+    "2024": "116,50",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "37,24",
+    "2024": "35,95",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "93,89",
+    "2024": "92,42",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "66,72",
+    "2024": "65,76",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "22,36",
+    "2024": "23,03",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "109,98",
+    "2024": "109,18",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.03.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "278,57",
+    "2024": "267,55",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04",
+    "komponendata": "Persentase PAD terhadap Pendapatan Daerah",
+    "satuan": null,
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.01",
+    "komponendata": "Kabupaten Pandeglang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "9,49",
+    "2024": "7,89",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.02",
+    "komponendata": "Kabupaten Lebak",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "16,19",
+    "2024": "13,69",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.03",
+    "komponendata": "Kabupaten Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "55,16",
+    "2024": "53,81",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.04",
+    "komponendata": "Kabupaten Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "27,04",
+    "2024": "26,36",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.71",
+    "komponendata": "Kota Tangerang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "48,41",
+    "2024": "48,01",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.72",
+    "komponendata": "Kota Cilegon",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "40,02",
+    "2024": "39,67",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.73",
+    "komponendata": "Kota Serang",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "18,27",
+    "2024": "18,72",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.74",
+    "komponendata": "Kota Tangerang Selatan",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "52,37",
+    "2024": "52,19",
+    "2025": "0",
+    "2026": "0"
+  },
+  {
+    "kodefikasi": "36.2.01.5.2.04.36",
+    "komponendata": "Provinsi Banten",
+    "satuan": "%",
+    "sumberdata": "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "2023": "73.55",
+    "2024": "72,76",
+    "2025": "0",
+    "2026": "0"
+  }
+]
